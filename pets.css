@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(228, 243, 248);
+    font-family: "DynaPuff", system-ui; 
+}
+
+ul{
+    margin: 0;
+}
+
+.nav-color {
+    background-color:cornflowerblue;
+    padding: 10px;
+}
+
+.main {
+    background-color: rgb(154, 198, 255);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    padding: 10px;
+}
