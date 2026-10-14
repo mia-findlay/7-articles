@@ -5,6 +5,8 @@ html {
 
 .site-header {
     background-color: cornflowerblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .wrapper {
@@ -14,17 +16,33 @@ html {
 
 .site-main {
     background-color: rgb(154, 198, 255);
+    margin-top: 15px;
+    padding: 10px;
 
 }
 
 .article-section {
     background-color:rgb(198, 249, 249);
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .callout {
     background-color: rgb(181, 202, 248);
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-style: italic;
+
 }
 
 .site-footer {
     background-color: rgb(107, 209, 243);
+    padding: 10px;
+}
+
+.address {
+    border-top: 3px solid black;
+    padding-top: 10px;
 }
